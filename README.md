@@ -20,16 +20,16 @@
 ---
 
 ### 📌 Featured Projects
-🔐 **Explainable IDS Framework for AI Based Firewall System)**  
-AI-driven network firewall framework integrating supervised (XGBoost, SVM, Random Forest, Logistic Regression) and unsupervised (Autoencoder + Isolation Forest) models for detecting both known and zero-day attacks using UNSW-NB15 dataset.
-Implemented xAI with SHAP for transparent decision-making.
+🔐 **Explainable IDS Framework for AI Based Firewall System**  
+- AI-driven network firewall framework integrating supervised (XGBoost, SVM, Random Forest, Logistic Regression) and unsupervised (Autoencoder + Isolation Forest) models for detecting both known and zero-day attacks using UNSW-NB15 dataset.
+- Implemented xAI with SHAP for transparent decision-making.
 
 📊 **Zomato EDA Project**  
-Data cleaning, visualization, feature engineering, and insights generation.
+- Data cleaning, visualization, feature engineering, and insights generation.
 
 📝 **FastAPI Image Sharing Platform**  
-A secure, scalable **Image & Video Sharing REST API** built using **FastAPI**, **FastAPI Users**, **SQLAlchemy (Async)**, and **ImageKit** for cloud media storage.  
-This backend service supports **JWT-based authentication**, **user management**, **media uploads**, and a **social media–style feed system**.
+- A secure, scalable **Image & Video Sharing REST API** built using **FastAPI**, **FastAPI Users**, **SQLAlchemy (Async)**, and **ImageKit** for cloud media storage.  
+- This backend service supports **JWT-based authentication**, **user management**, **media uploads**, and a **social media–style feed system**.
 
 ---
 
