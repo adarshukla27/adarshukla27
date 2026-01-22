@@ -10,7 +10,12 @@
 ---
 
 ### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,postgresql,mysql,git,github,pandas,numpy,matplotlib.scikit-learn)
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,postgresql,mysql,git,github)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+
 
 ---
 
@@ -34,6 +39,9 @@ This backend service supports **JWT-based authentication**, **user management**,
 
 ---
 
-### 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/adarshukla27/
-- 🐦 X (Twitter): https://x.com/adarshukla27
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshukla27/)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/adarshukla27)
+
+
