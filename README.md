@@ -31,11 +31,6 @@
 - A secure, scalable **Image & Video Sharing REST API** built using **FastAPI**, **FastAPI Users**, **SQLAlchemy (Async)**, and **ImageKit** for cloud media storage.  
 - This backend service supports **JWT-based authentication**, **user management**, **media uploads**, and a **social media–style feed system**.
 
----
-
-### 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshukla27&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshukla27&layout=compact)
 
 ---
 
